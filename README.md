@@ -1,0 +1,2 @@
+# ktm-yleiskaava
+Kaavatietomalli - yleiskaava
