@@ -3,4 +3,4 @@ layout: "default"
 description: ""
 id: "kayttotarkoitukset"
 ---
-# Rakentamistapa
+# Käyttötarkoitukset
