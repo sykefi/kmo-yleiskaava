@@ -1,2 +1,2 @@
-# ktm-yleiskaava
-Kaavatietomalli - yleiskaava
+# kmo-yleiskaava
+Kaavamääräysopas - yleiskaava
